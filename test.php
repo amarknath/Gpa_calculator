@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<h1>CGPA Calculator</h1>
+<h1>GPA Calculator</h1>
 <h3>Grade Obtained</h3> <h3>Credit Hours</h3>
 <body>
 <link rel="stylesheet" type="text/css" href="styled-select.css">
@@ -176,7 +176,7 @@
   </p> 
 
 
-  <input type="submit" value="CGPA>>" >
+  <input type="submit" value="GPA>>" >
 </form>
 
 </body>
